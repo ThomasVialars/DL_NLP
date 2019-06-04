@@ -1,5 +1,5 @@
 ## intent:today
-- what is the [weather](carac) today
+- what is the [weather](carac) like today
 - how is the [weather](carac) today
 - what is the [temperature](carac) today
 - how much [degrees](carac) outside today
@@ -9,7 +9,7 @@
 - how much [rain](carac) today
 
 ## intent:tomorrow
-- what is the [weather](carac) tomorrow
+- what is the [weather](carac) like tomorrow
 - how is the [weather](carac) tomorrow
 - what is the [temperature](carac) tomorrow
 - how much [degrees](carac) outside tomorrow
@@ -19,7 +19,7 @@
 - how much [rain](carac) tomorrow
 
 ## intent:in_two_days
-- what is the [weather](carac) in two days
+- what is the [weather](carac) like in two days
 - how is the [weather](carac) in two days
 - what is the [temperature](carac) in two days
 - how much [degrees](carac) outside in two days
@@ -29,7 +29,7 @@
 - how much [rain](carac) in two days
 
 ## intent:in_three_days
-- what is the [weather](carac) in three days
+- what is the [weather](carac) like in three days
 - how is the [weather](carac) in three days
 - what is the [temperature](carac) in three days
 - how much [degrees](carac) outside in three days
@@ -39,7 +39,7 @@
 - how much [rain](carac) in three days
 
 ## intent:in_four_days
-- what is the [weather](carac) in four days
+- what is the [weather](carac) like in four days
 - how is the [weather](carac) in four days
 - what is the [temperature](carac) in four days
 - how much [degrees](carac) outside in four days
